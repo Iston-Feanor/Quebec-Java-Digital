@@ -56,3 +56,30 @@ desse jeito, não acarreta em alterações na mesma
 - Evite lista de parâmetros longas
 - Visibilidades adequadas
 
+### Sobrecarga de Métodos
+
+É a capacidade de definir métodos para diferentes contextos, mas preservando seu nome.
+
+### Criação:
+- Alterar a assinatura do método:
+
+converterParaInteiro (float f); -> converterParaInteiro (double d);
+
+### Retorno
+
+- É uma instrução de interrupção
+
+### Funcionamento:
+
+O método executa seu retorno quando:
+- Completa todas as suas instruções internas;
+- Chega a uma declaração explicita de retorno;
+- Lança uma exceção;
+
+### Considerações:
+
+- O tipo de retorno do método é definido na sua criação e pode ser um tipo primitivo ou objeto;
+- O tipo de dado do return deve ser compatível com o método;
+- Se o método for sem retorno (void), pode ou não ter um "return" para encerrar sua execução;
+
+
