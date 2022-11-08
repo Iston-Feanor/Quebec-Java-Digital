@@ -28,7 +28,9 @@
 
 - Define mais de uma estrutura condicional em uma mesma linha, possibilitando escrever o código de forma mais limpa.
 
-Ex: String resultado = nota >= 7 ? "Aprovado" : "Reprovado";
-    <variável>       = <condição> ? <resultado1> : <resultado2> : <resultadoN>
+Ex: 
+    String resultado = nota >= 7 ? "Aprovado" : "Reprovado";
+    
+    <variável>       = <condição> ? <resultado1> : <resultado2> : <...>
 
 
