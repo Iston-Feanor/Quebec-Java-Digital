@@ -1,4 +1,4 @@
-# **_List_**: 
+# **_List_**:  😅
 
 ### Inicializar um List: 
 
